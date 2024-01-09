@@ -1,2 +1,3 @@
 # salatapp
-Salat App Step by Step
+Salat App Step by Step<br>
+Authore: Waqas Shafi
